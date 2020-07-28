@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+  My name is Leonardo Branco from Brazil. I'm IT student at COTUCA, love❤️code and always learn new things! 
+  In my free time i like to play computer games, read books and go skateboarding!
+
+  https://img.shields.io/badge/linkedin/aaa-LinkedIn-informational
+
 <!--
 **leozinbranco/leozinbranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
