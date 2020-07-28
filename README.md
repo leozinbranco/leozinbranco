@@ -3,7 +3,7 @@
   My name is Leonardo Branco from Brazil. I'm IT student at COTUCA, love❤️code and always learn new things! 
   In my free time i like to play computer games, read books and go skateboarding!
 
-  https://img.shields.io/badge/linkedin/aaa-LinkedIn-informational
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-andré-branco-8387b71b1/)](https://www.linkedin.com/in/leonardo-andré-branco-8387b71b1/)
 
 <!--
 **leozinbranco/leozinbranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
